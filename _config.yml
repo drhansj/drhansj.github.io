@@ -26,8 +26,8 @@ author:
   avatar           : "headshot.jpg"
   name             : "Dr. Hans Johansen"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Research Scientist and Technology Leader"
+  location         : "San Francisco Bay Area, California, USA"
   employer         : # Name "Red Brick University"
   uri              : # URL
   email            : "drhansj@berkeley.edu" 
